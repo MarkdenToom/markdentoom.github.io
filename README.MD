@@ -1,1 +1,3 @@
-# Code for my WIP portfolio website: https://markdentoom.github.io/
+# My WIP portfolio website
+
+https://markdentoom.github.io/
