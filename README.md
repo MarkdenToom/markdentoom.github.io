@@ -21,7 +21,7 @@ This is a solo project. If you find any issues, please create in issue in the [I
 
 * **Mark den Toom** - *Initial work* - [Mark den Toom](https://github.com/markdentoom)
 
-See also the list of [contributors](https://github.com/MarkdenToom/NASA-blog/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MarkdenToom/markdentoom.github.io/graphs/contributors) who participated in this project.
 
 ## License
 
