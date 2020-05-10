@@ -1,8 +1,6 @@
 # [markdentoom.github.io](https://markdentoom.github.io/)
 
-My personal portfolio website
-
-Note to self: the site is due for a revamp
+My old portfolio website. View my new portfolio [here](http://markdentoom.com/)
 
 ## Getting Started
 
